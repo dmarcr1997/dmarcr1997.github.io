@@ -5,7 +5,7 @@ header-img: img/home-bg.png
 email: dmarcr1997@gmail.com
 copyright_name: Damon Rocha
 description: > # this means to ignore newlines until "baseurl:"
-  Why I want to pursue  Software Engineering
+  Blog for Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dmarcr1997
