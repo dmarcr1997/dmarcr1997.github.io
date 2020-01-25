@@ -1,11 +1,11 @@
 # Site settings
-author: Damon R
-title: 
+author: Damon Rocha
+title: Software Engineering
 header-img: img/home-bg.png
 email: dmarcr1997@gmail.com
-copyright_name: Damon R
+copyright_name: Damon Rocha
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why I want to pursue  Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dmarcr1997
