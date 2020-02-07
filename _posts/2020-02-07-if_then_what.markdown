@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "If...Then What"
-date:       2020-02-07 16:57:07 +0000
+title:      "If...Then What?"
+date:       2020-02-07 11:57:08 -0500
 permalink:  if_then_what
 ---
 
